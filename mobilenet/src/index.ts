@@ -37,7 +37,7 @@ const MODEL_INFO: {[version: string]: {[alpha: string]: string}} = {
     '0.75':
         'https://tfhub.dev/google/imagenet/mobilenet_v1_075_224/classification/1',
     '1.00':
-        'https://tfhub.dev/google/imagenet/mobilenet_v1_100_224/classification/1'
+        'http://localhost:8076/model'
   },
   '2.00': {
     '0.50':
